@@ -1,5 +1,5 @@
 # Overview
-This project goal of this project is to log temperature and humidity over a given duration. This project was started as a means to assess the risk of mould development in my flat. 
+This goal of this project is to log temperature and humidity over a given duration. This project was started as a means to assess the risk of mould development in my flat. 
 ![example output](reports/jan30-31.png)
 
 # Hardware
