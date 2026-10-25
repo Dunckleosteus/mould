@@ -2,6 +2,8 @@
 This goal of this project is to log temperature and humidity over a given duration. This project was started as a means to assess the risk of mould development in my flat. 
 ![example output](reports/jan30-31.png)
 
+====
+
 # Hardware
 The following hardware was used in this project: 
 - Raspberrypi pico 2 with headers.
